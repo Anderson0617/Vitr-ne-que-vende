@@ -1,5 +1,5 @@
+// orarios e dias de funcionamentos em baixo
 import { useCallback, useEffect, useMemo, useState } from "react";
-
 import AddonModal from "../../components/AddonModal";
 import CheckoutDrawer from "../../components/CheckoutDrawer";
 import ClosedStoreModal from "../../components/ClosedStoreModal";

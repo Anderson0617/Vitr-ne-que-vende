@@ -5,7 +5,7 @@ import { useEffect, useState } from "react";
 const morningOpen = 10;
 const morningClose = 16;
 const eveningOpen = 18;
-const eveningClose = 23;
+const eveningClose = 24;
 
 const useCountdown = () => {
 	const calculateTimeLeft = () => {
